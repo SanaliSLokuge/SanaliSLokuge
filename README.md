@@ -1,52 +1,72 @@
-# SanaliSLokuge
+#  Sanali Lokuge
 
-# 🌟 Sanali Lokuge
-
-🎓 Computer Science Undergraduate | 🧠 AI & Data Science Enthusiast | 💡 Problem Solver  
-📍 Sri Lanka | 🌐 [Portfolio](https://your-portfolio-link.com)
+💻 Data & AI Enthusiast | 🛠️ Automation & Web Dev Explorer | 🌐 Always Prototyping
 
 ---
 
-## 💼 About Me
+## 🚀 About Me
 
-Hi there! I’m **Sanali**, a tech explorer who loves building smart, impactful solutions.  
-Currently diving into AI, automation, and data science—while keeping an eye on clean code and clear results.
+Hi, I'm Sanali — a curious mind passionate about solving real-world problems using code.  
+From scraping the web with Python to building decision tree models and automation workflows, I’m always crafting something useful. My current focus includes **data automation**, **AI workflows**, and **creative web interfaces** — all powered by lightweight tools and fast iteration.
 
----
-
-## 🛠️ Tech Stack
-
-**Languages:**  
-`Python` `Java` `JavaScript` `HTML5` `CSS3` `SQL`  
-**Frameworks & Tools:**  
-`React` `Node.js` `Spring Boot` `MongoDB` `MySQL` `Git` `GitHub` `Colab` `VS Code` `PostgreSQL`
+📍 Based in Sri Lanka | Open to internships, collaborations & build sprints.
 
 ---
 
-## 🚀 Projects
+## 📌 Featured Projects
 
-🔹 **Real-Time Ticketing System** — Java + React + Spring Boot  
-🔹 **Ceylon Power Portal** — Utility billing dashboard (JavaScript)  
-🔹 **Academic Progression Predictor** — Python CLI-based predictor  
-🔹 **DocConnect** — Healthcare appointment platform (Java)
+### 🔍 **Web Scraper with Firecrawl & Playwright**
+> Automated keyword-based data scraping using `requests`, `Playwright`, and `BeautifulSoup`.  
+**Tools**: Python, Google Colab  
+📄 [Demo Notebook](#) | 🔧 Real-world scraping workflows
+
+### 📊 **Breast Cancer Prediction (SEER Dataset)**
+> Classification & regression models using logistic regression, Naïve Bayes, KNN, and Decision Trees.  
+**Goal**: Predict mortality and survival months.  
+**Tech**: Python, Sklearn, Matplotlib, CRISP-DM  
+📄 [Notebook](#) | 📈 Ensemble models & decision rule tracing
+
+### 🛠 **Real-Time Event Ticketing System**
+> CLI & Spring Boot backend for real-time ticket booking with multi-threading and logging.  
+**Stack**: Java, Maven, Spring Boot  
+🎟️ Vendor-Customer simulation | Manual logging | Concurrency logic
+
+### 🌐 **Architecture Portfolio Website**
+> Full-screen SVG sketch-based animated portfolio with scroll CTA & responsive layout.  
+**Stack**: HTML, CSS, JavaScript, Rough.js  
+🎨 Creative background animations + structured web architecture
+
+### 🤖 **Virtual Mouse using Hand Gestures**
+> Gesture-controlled mouse using OpenCV + MediaPipe.  
+**Features**: Cursor movement, left/right clicks, scroll via hand tracking  
+📄 Google Colab | 🖐️ AI + Computer Vision
 
 ---
 
-## 📊 GitHub Stats
+## 💻 Tech Stack
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SanaliLokuge&show_icons=true&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=SanaliLokuge&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SanaliLokuge&layout=compact)
-
----
-
-## 🌐 Connect with Me
-
-[LinkedIn](https://linkedin.com/in/yourprofile) • [GitHub](https://github.com/SanaliLokuge) • [Email](mailto:you@example.com)
+**Languages**: `Python`, `Java`, `JavaScript`, `HTML`, `CSS`, `C#`  
+**Frameworks**: `Spring Boot`, `React (Basics)`, `OpenCV`, `MediaPipe`  
+**Tools**: `Git`, `GitHub`, `Maven`, `Colab`, `Make.com`, `Google Sheets`, `VS Code`, `IntelliJ`, `Jupyter`, `Visual Studio`  
+**Libraries**: `Sklearn`, `Matplotlib`, `BeautifulSoup`, `Playwright`, `Pandas`, `Seaborn`
 
 ---
 
-## ☕ Support My Work
+## 🔗 Socials
 
-[Buy Me a Coffee](https://buymeacoffee.com/yourname)
+[LinkedIn](#) • [GitHub](https://github.com/YOUR-USERNAME) • [Portfolio (Coming Soon)](#)
 
+---
+
+## 📈 GitHub Stats (Optional)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+### ☕ Let’s Build Smart Things
+
+I believe in turning code into purpose — whether it’s scraping, modeling, automating, or designing something unique.
+
+💬 *DM me to collaborate, co-build, or brainstorm something impactful.*
