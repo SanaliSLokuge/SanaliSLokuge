@@ -13,6 +13,10 @@ From scraping the web with Python to building decision tree models and automatio
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=SanaliSLokuge&style=flat-square&color=blue)
+
+---
+
 ## 📌 Featured Projects
 
 ### 🔍 **Web Scraper with Firecrawl & Playwright**
