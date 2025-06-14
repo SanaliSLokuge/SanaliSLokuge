@@ -36,10 +36,6 @@ From scraping the web with Python to building decision tree models and automatio
 **Stack**: HTML, CSS, JavaScript, Rough.js  
 🎨 Creative background animations + structured web architecture
 
-### 🤖 **Virtual Mouse using Hand Gestures**
-> Gesture-controlled mouse using OpenCV + MediaPipe.  
-**Features**: Cursor movement, left/right clicks, scroll via hand tracking  
-📄 Google Colab | 🖐️ AI + Computer Vision
 
 ---
 
@@ -54,7 +50,7 @@ From scraping the web with Python to building decision tree models and automatio
 
 ## 🔗 Socials
 
-[LinkedIn](#) • [GitHub](https://github.com/YOUR-USERNAME) • [Portfolio (Coming Soon)](#)
+[LinkedIn](https://www.linkedin.com/in/sanali-lokuge) • [GitHub](https://github.com/SanaliSLokuge) • [Portfolio (Coming Soon)](#)
 
 ---
 
