@@ -1,6 +1,6 @@
 #  Sanali Lokuge
 
-💻 Data & AI Enthusiast | 🛠️ Automation & Web Dev Explorer | 🌐 Always Prototyping
+💻 Data & AI Enthusiast | 🛠️ Automation & Software Dev Explore
 
 ---
 
