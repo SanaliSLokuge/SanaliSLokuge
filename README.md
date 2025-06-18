@@ -45,7 +45,7 @@ From scraping the web with Python to building decision tree models and automatio
 
 ## 💻 Tech Stack
 
-**Languages**: `Python`, `Java`, `JavaScript`, `HTML`, `CSS`, `C#`  
+**Languages**: `Python`, `Java`, `JavaScript`, `HTML`, `CSS`  
 **Frameworks**: `Spring Boot`, `React (Basics)`, `OpenCV`, `MediaPipe`  
 **Tools**: `Git`, `GitHub`, `Maven`, `Colab`, `Make.com`, `Google Sheets`, `VS Code`, `IntelliJ`, `Jupyter`, `Visual Studio`  
 **Libraries**: `Sklearn`, `Matplotlib`, `BeautifulSoup`, `Playwright`, `Pandas`, `Seaborn`
@@ -54,7 +54,7 @@ From scraping the web with Python to building decision tree models and automatio
 
 ## 🔗 Socials
 
-[LinkedIn](https://www.linkedin.com/in/sanali-lokuge) • [GitHub](https://github.com/SanaliSLokuge) • [Portfolio (Coming Soon)](#)
+[LinkedIn](https://www.linkedin.com/in/sanali-lokuge) • [GitHub](https://github.com/SanaliSLokuge) • [Portfolio(https://sanalilokuge.netlify.app)
 
 ---
 
