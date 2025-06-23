@@ -1,6 +1,6 @@
 #  Sanali Lokuge
 
-💻 Data & AI Enthusiast | 🛠️ Automation & Software Dev Explore
+💻 Data Science & AI Enthusiast | Automation & Software Developer
 
 ---
 
