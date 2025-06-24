@@ -7,9 +7,9 @@
 ## 🚀 About Me
 
 Hi, I'm Sanali — a curious mind passionate about solving real-world problems using code.  
-From scraping the web with Python to building decision tree models and automation workflows, I’m always crafting something useful. My current focus includes **data automation**, **AI workflows**, and **creative web interfaces** — all powered by lightweight tools and fast iteration.
+From scraping the web with Python to building decision tree models and automation workflows, I’m always crafting something useful. My current focus includes **data automation**, **AI workflows**, and **creative web interfaces**, all powered by lightweight tools and fast iteration.
 
-📍 Based in Sri Lanka | Open to internships, collaborations & build sprints.
+📍 Based in Sri Lanka | Open to internships & collaboration.
 
 ---
 
@@ -46,9 +46,9 @@ From scraping the web with Python to building decision tree models and automatio
 ## 💻 Tech Stack
 
 **Languages**: `Python`, `Java`, `JavaScript`, `HTML`, `CSS`  
-**Frameworks**: `Spring Boot`, `React (Basics)`, `OpenCV`, `MediaPipe`  
+**Frameworks**: `Spring Boot`, `React (Basics)`, `OpenCV`  
 **Tools**: `Git`, `GitHub`, `Maven`, `Colab`, `Make.com`, `Google Sheets`, `VS Code`, `IntelliJ`, `Jupyter`, `Visual Studio`  
-**Libraries**: `Sklearn`, `Matplotlib`, `BeautifulSoup`, `Playwright`, `Pandas`, `Seaborn`
+**Libraries**: `Sklearn`, `Matplotlib`, `BeautifulSoup`, `Playwright`, `Pandas`, 
 
 ---
 
@@ -63,10 +63,3 @@ From scraping the web with Python to building decision tree models and automatio
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SanaliSLokuge&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SanaliSLokuge&layout=compact&theme=tokyonight)
 
----
-
-### ☕ Let’s Build Smart Things
-
-I believe in turning code into purpose — whether it’s scraping, modeling, automating, or designing something unique.
-
-💬 *DM me to collaborate, co-build, or brainstorm something impactful.*
