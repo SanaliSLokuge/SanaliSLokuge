@@ -58,7 +58,7 @@ From scraping the web with Python to building decision tree models and automatio
 
 ---
 
-##  GitHub Stats (Optional)
+##  Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SanaliSLokuge&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SanaliSLokuge&layout=compact&theme=tokyonight)
