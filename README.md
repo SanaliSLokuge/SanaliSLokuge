@@ -1,15 +1,15 @@
 #  Sanali Lokuge
 
-💻 Data Science & AI Enthusiast | Automation & Software Developer
+Data Science & AI Enthusiast | Automation & Software Developer
 
 ---
 
-## 🚀 About Me
+## About Me
 
 Hi, I'm Sanali - a curious mind passionate about solving real-world problems using code.  
 From scraping the web with Python to building decision tree models and automation workflows, I’m always developing something useful. My current focus includes **data automation**, **AI workflows**, and **software development**.
 
-📍 Based in Sri Lanka | Open to internships & collaboration.
+Based in Sri Lanka | Open to internships & collaboration.
 
 ---
 
@@ -30,7 +30,7 @@ From scraping the web with Python to building decision tree models and automatio
 **Tech**: Python, Sklearn, Matplotlib, CRISP-DM  
  [Notebook](#) |  Ensemble models & decision rule tracing
 
-### 🛠 **Real-Time Event Ticketing System**
+### **Real-Time Event Ticketing System**
 > CLI & Spring Boot backend for real-time ticket booking with multi-threading and logging.  
 **Stack**: Java, Maven, Spring Boot  
  Vendor-Customer simulation | Manual logging | Concurrency logic
