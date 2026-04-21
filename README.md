@@ -54,7 +54,7 @@ Based in Sri Lanka | Open to internships & collaboration.
 
 ##  Socials
 
-[LinkedIn](https://www.linkedin.com/in/sanali-lokuge) • [GitHub](https://github.com/SanaliSLokuge) • [Portfolio(https://sanalilokuge.netlify.app)
+[LinkedIn](https://www.linkedin.com/in/sanali-lokuge) • [GitHub](https://github.com/SanaliSLokuge) •
 
 ---
 
