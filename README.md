@@ -1,6 +1,6 @@
 #  Sanali Lokuge
 
-Data Science & AI Enthusiast | Automation & Software Developer
+Data Science & AI Enthusiast | Software & Automation Developer | Full Stack developer
 
 ---
 
