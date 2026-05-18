@@ -60,15 +60,19 @@ Computer vision system that detects land-use features from satellite images usin
 ### Real-Time Event Ticketing System
 Multi-threaded ticket booking platform with Spring Boot backend and vendor-customer simulation.
 
-##  Tech Stack
-
-**Languages**: `Python`, `Java`, `JavaScript`, `HTML`, `CSS`  
-**Frameworks**: `Spring Boot`, `React (Basics)`, `OpenCV`  
-**Tools**: `Git`, `GitHub`, `Maven`, `Colab`, `Make.com`, `Google Sheets`, `VS Code`, `IntelliJ`, `Jupyter`, `Visual Studio`  , 'Selenium', 'Jenkins'
-**Libraries**: `Sklearn`, `Matplotlib`, `BeautifulSoup`, `Playwright`, `Pandas`, 
-
 ---
 
+## Technical Skills
+
+**Languages:** Python, Java, JavaScript, SQL, HTML, CSS
+
+**Frameworks & Libraries:** Spring Boot, React, Scikit-learn, PyTorch, OpenCV, LangChain, Pandas, NumPy
+
+**Tools & Platforms:** Git, GitHub, Docker, Maven, Jupyter, Google Colab, Postman, Jenkins, Selenium
+
+**Core Areas:** Machine Learning, LLM Applications, Retrieval-Augmented Generation (RAG), Automation, REST APIs, Computer Vision
+
+---
 ##  Socials
 
 [LinkedIn](https://www.linkedin.com/in/sanali-lokuge) • [GitHub](https://github.com/SanaliSLokuge) •
