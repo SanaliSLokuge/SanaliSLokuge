@@ -47,7 +47,7 @@ Based in Sri Lanka | Open to internships & collaboration.
 
 **Languages**: `Python`, `Java`, `JavaScript`, `HTML`, `CSS`  
 **Frameworks**: `Spring Boot`, `React (Basics)`, `OpenCV`  
-**Tools**: `Git`, `GitHub`, `Maven`, `Colab`, `Make.com`, `Google Sheets`, `VS Code`, `IntelliJ`, `Jupyter`, `Visual Studio`  
+**Tools**: `Git`, `GitHub`, `Maven`, `Colab`, `Make.com`, `Google Sheets`, `VS Code`, `IntelliJ`, `Jupyter`, `Visual Studio`  , 'Selenium', 'Jenkins'
 **Libraries**: `Sklearn`, `Matplotlib`, `BeautifulSoup`, `Playwright`, `Pandas`, 
 
 ---
