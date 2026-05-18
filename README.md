@@ -20,31 +20,45 @@ I enjoy turning real-world problems into scalable, production-oriented systemsâ€
 
 ---
 
-##  Featured Projects
+## Featured Projects
 
-###  **Web Scraper with Firecrawl & Playwright**
-> Automated keyword-based data scraping using `requests`, `Playwright`, and `BeautifulSoup`.  
-**Tools**: Python, Google Colab  
- [Demo Notebook](#) |  Real-world scraping workflows
+### Smart Article Assistant
+AI-powered application that summarizes articles from URLs or RSS feeds and generates multiple-choice flashcards for learning.
 
-###  **Breast Cancer Prediction (SEER Dataset)**
-> Classification & regression models using logistic regression, NaÃ¯ve Bayes, KNN, and Decision Trees.  
-**Goal**: Predict mortality and survival months.  
-**Tech**: Python, Sklearn, Matplotlib, CRISP-DM  
- [Notebook](#) |  Ensemble models & decision rule tracing
-
-### **Real-Time Event Ticketing System**
-> CLI & Spring Boot backend for real-time ticket booking with multi-threading and logging.  
-**Stack**: Java, Maven, Spring Boot  
- Vendor-Customer simulation | Manual logging | Concurrency logic
-
-###  **Architecture Portfolio Website**
-> Full-screen SVG sketch-based animated portfolio with scroll CTA & responsive layout.  
-**Stack**: HTML, CSS, JavaScript, Rough.js  
- Creative background animations + structured web architecture
-
+**Tech Stack:** Python, Streamlit, LangChain, OpenRouter, BeautifulSoup
 
 ---
+
+### Document Question Answering System
+Retrieval-augmented application that answers questions from uploaded documents using TF-IDF search and LLM-based response generation.
+
+**Tech Stack:** Python, NLP, GPT-4o-mini
+
+---
+
+### Memory-Augmented AI Agent
+Conversational agent with persistent memory and context-aware responses.
+
+**Tech Stack:** Python, Agno, Mem0, DistilGPT-2
+
+---
+
+### Breast Cancer Survival Prediction
+Machine learning pipeline using classification, regression, and ensemble models to predict mortality status and survival months from SEER data.
+
+**Tech Stack:** Python, Scikit-learn, Pandas, Matplotlib
+
+---
+
+### Land Evaluation Object Detection
+Computer vision system that detects land-use features from satellite images using Faster R-CNN and COCO evaluation metrics.
+
+**Tech Stack:** Python, PyTorch, OpenCV, Labelme
+
+---
+
+### Real-Time Event Ticketing System
+Multi-threaded ticket booking platform with Spring Boot backend and vendor-customer simulation.
 
 ##  Tech Stack
 
