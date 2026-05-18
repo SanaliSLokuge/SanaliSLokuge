@@ -1,15 +1,18 @@
-#  Sanali Lokuge
+# Sanali Lokuge
 
-Data Science & AI Enthusiast | Software & Automation Developer | Full Stack developer
+**Software Engineer | AI & Data Science Developer | Automation Enthusiast**
+
+Based in Sri Lanka • Open to Internships and Graduate Opportunities
+
+![Profile Views](https://komarev.com/ghpvc/?username=SanaliSLokuge&style=flat-square&color=blue)
 
 ---
 
 ## About Me
 
-Hi, I'm Sanali - a curious mind passionate about solving real-world problems using code.  
-From scraping the web with Python to building decision tree models and automation workflows, I’m always developing something useful. My current focus includes **data automation**, **AI workflows**, and **software development**.
+I build practical software solutions using **Python, Java, and modern AI tools**. My experience spans machine learning, large language model applications, automation pipelines, and full-stack development.
 
-Based in Sri Lanka | Open to internships & collaboration.
+I enjoy turning real-world problems into scalable, production-oriented systems—from object detection models and retrieval-augmented chatbots to REST APIs and intelligent automation workflows.
 
 ---
 
