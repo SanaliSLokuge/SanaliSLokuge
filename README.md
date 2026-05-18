@@ -16,10 +16,6 @@ I enjoy turning real-world problems into scalable, production-oriented systems�
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=SanaliSLokuge&style=flat-square&color=blue)
-
----
-
 ## Featured Projects
 
 ### Smart Article Assistant
@@ -73,9 +69,8 @@ Multi-threaded ticket booking platform with Spring Boot backend and vendor-custo
 **Core Areas:** Machine Learning, LLM Applications, Retrieval-Augmented Generation (RAG), Automation, REST APIs, Computer Vision
 
 ---
-##  Socials
+## Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/sanali-lokuge) • [GitHub](https://github.com/SanaliSLokuge) •
-
----
+- LinkedIn: https://www.linkedin.com/in/sanali-lokuge
+- GitHub: https://github.com/SanaliSLokuge
 
