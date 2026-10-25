@@ -1,107 +1,108 @@
+<div align="center">
+
 # Sanali Lokuge
 
-<p align="center">
-  <strong>Software Engineer · AI & Data Science Developer · Automation Enthusiast</strong>
-</p>
+### Software Engineer · AI & Data Science Developer · Automation Enthusiast
 
-<p align="center">
-  Building practical, intelligent, and production-oriented software solutions with Python, Java, and modern AI technologies.
-</p>
+Building practical software that connects **engineering, artificial intelligence, and automation**.
 
-<p align="center">
+<p>
   <a href="https://github.com/SanaliSLokuge">
-    <img src="https://komarev.com/ghpvc/?username=SanaliSLokuge&style=flat-square&color=2563eb" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=SanaliSLokuge&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" alt="Profile views" />
   </a>
   <a href="https://www.linkedin.com/in/sanali-lokuge">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
 </p>
 
----
+</div>
 
-## About Me
+## 👋 About Me
 
-I am a software engineer focused on developing reliable applications that combine software engineering, machine learning, and automation. My work spans large language model applications, retrieval-augmented generation, computer vision, data analysis, and backend development.
+I’m a software engineer from **Sri Lanka** who enjoys turning complex, real-world problems into reliable and maintainable solutions. My interests sit at the intersection of **backend engineering, machine learning, large language models, and intelligent automation**.
 
-I enjoy transforming complex, real-world problems into clear and maintainable solutions—from intelligent assistants and document question-answering systems to predictive models, REST APIs, and automation workflows.
+I’m currently open to **internship and graduate software engineering opportunities** where I can contribute, keep learning, and build technology that creates real value.
 
-- Based in Sri Lanka
-- Open to internship and graduate software engineering opportunities
-- Interested in AI engineering, backend development, machine learning, and intelligent automation
-- Continuously learning and building practical projects
+- 🤖 Building AI assistants, RAG applications, and document intelligence tools
+- 🧠 Exploring applied machine learning and computer vision
+- ⚙️ Developing backend services, REST APIs, and automation workflows
+- 📚 Continuously learning through practical, production-oriented projects
 
-## Areas of Focus
+## 🧰 What I Work With
 
-- Machine Learning and Applied Data Science
-- Large Language Model Applications
-- Retrieval-Augmented Generation (RAG)
-- Computer Vision and Object Detection
-- Backend and REST API Development
-- Process Automation and Intelligent Workflows
-- Software Design and Production-Oriented Engineering
+<div align="center">
 
-## Featured Projects
+| Area | Technologies |
+| :--- | :--- |
+| **Languages** | Python · Java · JavaScript · SQL · HTML · CSS |
+| **AI & Data** | Scikit-learn · PyTorch · OpenCV · Pandas · NumPy · LangChain |
+| **Backend & Web** | Spring Boot · React · REST APIs · Maven |
+| **Tools & Platforms** | Git · GitHub · Docker · Jupyter · Google Colab · Postman · Jenkins · Selenium |
 
-### Smart Article Assistant
+</div>
 
-An AI-powered learning application that summarizes articles from URLs or RSS feeds and generates multiple-choice flashcards to support knowledge retention.
+## 🚀 Featured Projects
 
-**Technologies:** Python, Streamlit, LangChain, OpenRouter, BeautifulSoup
+### 📰 Smart Article Assistant
 
-### Document Question Answering System
+An AI-powered learning application that summarizes articles from URLs or RSS feeds and creates multiple-choice flashcards to support knowledge retention.
 
-A retrieval-augmented application that processes uploaded documents, retrieves relevant content using TF-IDF search, and generates answers with an LLM.
+`Python` `Streamlit` `LangChain` `OpenRouter` `BeautifulSoup`
 
-**Technologies:** Python, NLP, TF-IDF, GPT-4o-mini
+### 📄 Document Question Answering System
 
-### Memory-Augmented AI Agent
+A retrieval-augmented application that processes uploaded documents, finds relevant content with TF-IDF search, and generates answers using an LLM.
 
-A conversational AI agent designed to maintain persistent memory and provide context-aware responses across interactions.
+`Python` `NLP` `TF-IDF` `GPT-4o-mini`
 
-**Technologies:** Python, Agno, Mem0, DistilGPT-2
+### 🧠 Memory-Augmented AI Agent
 
-### Breast Cancer Survival Prediction
+A conversational AI agent with persistent memory, designed to deliver more relevant and context-aware responses across interactions.
 
-A machine learning pipeline that applies classification, regression, and ensemble methods to predict mortality status and survival duration using SEER data.
+`Python` `Agno` `Mem0` `DistilGPT-2`
 
-**Technologies:** Python, Scikit-learn, Pandas, Matplotlib
+### 🎗️ Breast Cancer Survival Prediction
 
-### Land Evaluation Object Detection
+A machine learning pipeline using SEER data to predict mortality status and survival duration through classification, regression, and ensemble methods.
+
+`Python` `Scikit-learn` `Pandas` `Matplotlib`
+
+### 🛰️ Land Evaluation Object Detection
 
 A computer vision system for detecting land-use features in satellite imagery using Faster R-CNN and COCO evaluation metrics.
 
-**Technologies:** Python, PyTorch, OpenCV, Labelme
+`Python` `PyTorch` `OpenCV` `Labelme`
 
-### Real-Time Event Ticketing System
+### 🎟️ Real-Time Event Ticketing System
 
-A concurrent ticket booking platform with a Spring Boot backend and vendor-customer simulation, designed to explore multithreading and real-time transaction handling.
+A concurrent ticket booking platform with a Spring Boot backend and vendor-customer simulation, created to explore multithreading and real-time transaction handling.
 
-**Technologies:** Java, Spring Boot, Maven, Multithreading
+`Java` `Spring Boot` `Maven` `Multithreading`
 
-## Technical Skills
+## 📌 Areas of Focus
 
-### Languages
+- Large Language Model applications and prompt-driven systems
+- Retrieval-Augmented Generation and document intelligence
+- Machine learning and applied data science
+- Computer vision and object detection
+- Backend and REST API development
+- Process automation and intelligent workflows
+- Software design and production-oriented engineering
 
-`Python` `Java` `JavaScript` `SQL` `HTML` `CSS`
+## 📊 GitHub Activity
 
-### Frameworks and Libraries
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SanaliSLokuge&show_icons=true&hide_border=true&count_private=true&theme=transparent&title_color=2563eb&icon_color=2563eb" alt="Sanali Lokuge's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanaliSLokuge&layout=compact&hide_border=true&theme=transparent&title_color=2563eb" alt="Top programming languages" />
+</div>
 
-`Spring Boot` `React` `Scikit-learn` `PyTorch` `OpenCV` `LangChain` `Pandas` `NumPy`
+## 🤝 Let’s Connect
 
-### Tools and Platforms
+I’m always happy to connect with fellow developers, discuss software and AI engineering, and explore opportunities to build meaningful technology together.
 
-`Git` `GitHub` `Docker` `Maven` `Jupyter` `Google Colab` `Postman` `Jenkins` `Selenium`
+<div align="center">
 
-## GitHub Activity
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanali%20Lokuge-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanali-lokuge)
+[![GitHub](https://img.shields.io/badge/GitHub-SanaliSLokuge-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SanaliSLokuge)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanaliSLokuge&show_icons=true&hide_border=true&count_private=true&theme=transparent" alt="Sanali Lokuge's GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanaliSLokuge&layout=compact&hide_border=true&theme=transparent" alt="Top programming languages" />
-</p>
-
-## Connect
-
-- [LinkedIn](https://www.linkedin.com/in/sanali-lokuge)
-- [GitHub](https://github.com/SanaliSLokuge)
-
-I am always open to connecting with fellow developers, discussing software and AI engineering, and exploring opportunities to build meaningful technology.
+</div>
